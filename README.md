@@ -1,0 +1,1 @@
+Chemistry code modified for Arctic Bromine scheme to enable annual ozone analysis in the lower troposphere. Using GEMMACH arctic version 3.1.43. Simulation and data will be provided separately for 2015 analysis
